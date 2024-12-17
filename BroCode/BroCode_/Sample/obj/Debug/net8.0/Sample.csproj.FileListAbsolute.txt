@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\obj\Debug\net8.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\obj\Debug\net8.0\Sample.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\obj\Debug\net8.0\Sample.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\obj\Debug\net8.0\Sample.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\bin\Debug\net8.0\Sample.exe
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\bin\Debug\net8.0\Sample.deps.json
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\bin\Debug\net8.0\Sample.runtimeconfig.json
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\bin\Debug\net8.0\Sample.dll
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\bin\Debug\net8.0\Sample.pdb
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\obj\Debug\net8.0\Sample.dll
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\obj\Debug\net8.0\refint\Sample.dll
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\obj\Debug\net8.0\Sample.pdb
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\obj\Debug\net8.0\Sample.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\Sample\obj\Debug\net8.0\ref\Sample.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\bin\Debug\net8.0\BroCodeTwo.exe
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\bin\Debug\net8.0\BroCodeTwo.deps.json
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\bin\Debug\net8.0\BroCodeTwo.runtimeconfig.json
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\bin\Debug\net8.0\BroCodeTwo.dll
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\bin\Debug\net8.0\BroCodeTwo.pdb
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\obj\Debug\net8.0\BroCodeTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\obj\Debug\net8.0\BroCodeTwo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\obj\Debug\net8.0\BroCodeTwo.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\obj\Debug\net8.0\BroCodeTwo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\obj\Debug\net8.0\BroCodeTwo.dll
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\obj\Debug\net8.0\refint\BroCodeTwo.dll
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\obj\Debug\net8.0\BroCodeTwo.pdb
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\obj\Debug\net8.0\BroCodeTwo.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\DotNet\BroCode\BroCode_\BroCodeTwo\obj\Debug\net8.0\ref\BroCodeTwo.dll
